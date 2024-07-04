@@ -1,0 +1,22 @@
+# ninja log v6
+6	559	7417453390907479	untitled7_autogen/timestamp	b187885664ff0c1c
+6	559	7417453390907479	untitled7_autogen/mocs_compilation.cpp	b187885664ff0c1c
+6	559	7417453390907479	C:/Work/QtProjects/untitled7/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/untitled7_autogen/timestamp	b187885664ff0c1c
+6	559	7417453390907479	C:/Work/QtProjects/untitled7/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/untitled7_autogen/mocs_compilation.cpp	b187885664ff0c1c
+563	2602	7417453391461566	CMakeFiles/untitled7.dir/untitled7_autogen/mocs_compilation.cpp.obj	3602940abc24d525
+566	2616	7417453391491519	CMakeFiles/untitled7.dir/main.cpp.obj	934cb842e504299a
+572	3275	7417453391550520	CMakeFiles/untitled7.dir/functions.cpp.obj	516aeb3e33d02e18
+26	194	7417453985395782	untitled7_autogen/timestamp	b187885664ff0c1c
+26	194	7417453985395782	untitled7_autogen/mocs_compilation.cpp	b187885664ff0c1c
+26	194	7417453985395782	C:/Work/QtProjects/untitled7/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/untitled7_autogen/timestamp	b187885664ff0c1c
+26	194	7417453985395782	C:/Work/QtProjects/untitled7/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/untitled7_autogen/mocs_compilation.cpp	b187885664ff0c1c
+11	176	7417454090966076	untitled7_autogen/timestamp	b187885664ff0c1c
+11	176	7417454090966076	untitled7_autogen/mocs_compilation.cpp	b187885664ff0c1c
+11	176	7417454090966076	C:/Work/QtProjects/untitled7/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/untitled7_autogen/timestamp	b187885664ff0c1c
+11	176	7417454090966076	C:/Work/QtProjects/untitled7/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/untitled7_autogen/mocs_compilation.cpp	b187885664ff0c1c
+24	157	7417454354746167	untitled7_autogen/timestamp	b187885664ff0c1c
+24	157	7417454354746167	untitled7_autogen/mocs_compilation.cpp	b187885664ff0c1c
+24	157	7417454354746167	C:/Work/QtProjects/untitled7/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/untitled7_autogen/timestamp	b187885664ff0c1c
+24	157	7417454354746167	C:/Work/QtProjects/untitled7/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/untitled7_autogen/mocs_compilation.cpp	b187885664ff0c1c
+158	2776	7417454356076166	CMakeFiles/untitled7.dir/mainwindowserver.cpp.obj	ade1df90f448d9c9
+2776	2961	7417454382265716	untitled7.exe	84945c189b1119ed
